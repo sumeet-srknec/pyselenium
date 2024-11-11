@@ -11,16 +11,13 @@ driver.get("https://www.youtube.com")
 
 _sleep(15)
 
-# Find the search box element
+# Find the shorts link element
 shorts_link = driver.find_element(By.XPATH, '/html/body/ytd-app/div[1]/tp-yt-app-drawer/div[2]/div/div[2]/div[2]/ytd-guide-renderer/div[1]/ytd-guide-section-renderer[1]/div/ytd-guide-entry-renderer[2]/a/tp-yt-paper-item/yt-formatted-string')
 
-# Enter the search term
+# Click on the identified link.
 shorts_link.click()
 
 _sleep(15)
-
-# Simulate pressing the Enter key
-shorts_link.send_keys(Keys.RETURN)
 
 # Wait for a few seconds (optional)
 driver.implicitly_wait(600)
