@@ -6,3 +6,4 @@
 - Added example code for YouTube shorts page automation
 - Added example code for YouTube Trending page automation
 - Added example code for YouTube Shopping page automation
+- Added example code for YouTube Music page automation
