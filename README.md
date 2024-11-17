@@ -8,3 +8,4 @@
 - Added example code for YouTube Shopping page automation
 - Added example code for YouTube Music page automation
 - Added example code for YouTube Movies page automation
+- Added example code for YouTube Live page automation
