@@ -12,7 +12,7 @@ driver.get("https://www.youtube.com")
 _sleep(15)
 
 # Find the link element
-gaming_link = driver.find_element(By.XPATH, '/html/body/ytd-app/div[1]/tp-yt-app-drawer/div[2]/div/div[2]/div[2]/ytd-guide-renderer/div[1]/ytd-guide-section-renderer[3]/div/ytd-guide-entry-renderer[5]/a/tp-yt-paper-item/yt-formatted-string')
+gaming_link = driver.find_element(By.XPATH, '/html/body/ytd-app/div[1]/tp-yt-app-drawer/div[2]/div/div[2]/div[2]/ytd-guide-renderer/div[1]/ytd-guide-section-renderer[3]/div/ytd-guide-entry-renderer[6]/a/tp-yt-paper-item/yt-formatted-string')
 
 # Click on the identified link.
 gaming_link.click()
