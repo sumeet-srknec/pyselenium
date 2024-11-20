@@ -11,3 +11,4 @@
 - Added example code for YouTube Live page automation
 - Added example code for YouTube Gaming page automation
 - Added example code for YouTube News page automation
+- Added example code for YouTube Sports page automation
