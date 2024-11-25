@@ -14,3 +14,4 @@
 - Added example code for YouTube Sports page automation
 - Added example code for YouTube Courses page automation
 - Added example code for YouTube F&B page automation
+- Added example code for YouTube Podcasts page automation
