@@ -1,12 +1,12 @@
 <h1>Selenium automation with Python</h1>
 
-<h2> Google samples </h2>
+<h3> Google samples </h3>
 <ul>
 <li>Added example code for Google search automation</li>
 <li>Added example code for Google maps automation</li>
 </ul>
 
-<h2> YouTube samples </h2>
+<h3> YouTube samples </h3>
 <ul>
 <li>Added example code for YouTube search automation</li>
 <li>Added example code for YouTube shorts page automation</li>
