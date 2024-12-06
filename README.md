@@ -21,6 +21,8 @@
 <li>Added example code for YouTube Courses page automation</li>
 <li>Added example code for YouTube F&B page automation</li>
 <li>Added example code for YouTube Podcasts page automation</li>
+<ol>
 <li>Added example code for YouTube premium page automation</li>
 <li>Added example code for YouTube music (more from youtube) page automation</li>
+</ol>
 </ul>
