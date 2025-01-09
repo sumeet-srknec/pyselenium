@@ -4,6 +4,7 @@
 <ul>
 <li>Added example code for Google search automation</li>
 <li>Added example code for Google maps automation</li>
+<li>Pending: Add example code for Google mail automation</li>
 </ul>
 
 <h2> YouTube samples </h2>
